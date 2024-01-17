@@ -1,1 +1,1 @@
-this is a fun way write "hello word" in console app
+this is a fun and creative way to  write "hello word" in console app
